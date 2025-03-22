@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Carolina Franco Zeni!  
+# 👋 Olá, eu sou Carolina Franco Zeni!
 
 🎯 **Profissional do Direito em transição para Tecnologia**  
 🔹 Pós-Graduanda em Gestão de Riscos e Cibersegurança  
@@ -6,7 +6,7 @@
 🔹 Habilidades em **Python, SQL, JavaScript, TypeScript e React**  
 
 ## 🚀 Sobre mim  
-Atuei por anos como advogada, lidando com **compliance digital, proteção de dados e gestão de riscos**. Atualmente, estou ampliando minha expertise para a área de **cibersegurança e tecnologia**, buscando unir minha experiência jurídica ao mundo tech!  
+Atuei por anos como advogada, desenvolvendo habilidades em **análise estratégica e tomada de decisões assertivas no setor jurídico, com foco na prevenção e gestão de riscos**. Atualmente, estou ampliando minha expertise para a área de **cibersegurança e tecnologia**, buscando unir minha experiência jurídica ao mundo tech!  
 
 ## 🛠️ Tecnologias e Ferramentas  
 - **Linguagens:** Python, JavaScript, TypeScript, SQL  
@@ -22,5 +22,5 @@ Atuei por anos como advogada, lidando com **compliance digital, proteção de da
 
 ## 📬 Vamos conectar?  
 📧 [Seu E-mail]  
-🔗 [LinkedIn](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/carolina-zeni-6592a7201/)  
 💻 [Meu Portfólio](#)  
