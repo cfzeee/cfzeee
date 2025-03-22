@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou Carolina Franco Zeni!  
 
-<!--
-**cfzeee/cfzeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Profissional do Direito em transição para Tecnologia**  
+🔹 Pós-Graduanda em Gestão de Riscos e Cibersegurança  
+🔹 Experiência com Compliance Digital, LGPD e Segurança da Informação  
+🔹 Habilidades em **Python, SQL, JavaScript, TypeScript e React**  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim  
+Atuei por anos como advogada, lidando com **compliance digital, proteção de dados e gestão de riscos**. Atualmente, estou ampliando minha expertise para a área de **cibersegurança e tecnologia**, buscando unir minha experiência jurídica ao mundo tech!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas  
+- **Linguagens:** Python, JavaScript, TypeScript, SQL  
+- **Web:** React, CSS  
+- **Cibersegurança & Compliance:** Gestão de Riscos, LGPD/GDPR  
+
+## 📜 Certificações  
+✔ SQL | Mimo (2025)  
+✔ JavaScript | Mimo (2025)  
+✔ TypeScript | Mimo (2025)  
+✔ React | Mimo (2025)  
+✔ Python | Mimo (2025)  
+
+## 📬 Vamos conectar?  
+📧 [Seu E-mail]  
+🔗 [LinkedIn](#)  
+💻 [Meu Portfólio](#)  
