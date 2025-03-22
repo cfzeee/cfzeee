@@ -21,6 +21,5 @@ Atuei por anos como advogada, desenvolvendo habilidades em **análise estratégi
 ✔ Python | Mimo (2025)  
 
 ## 📬 Vamos conectar?  
-📧 [Seu E-mail]  
 🔗 [LinkedIn](https://www.linkedin.com/in/carolina-zeni-6592a7201/)  
 💻 [Meu Portfólio](#)  
